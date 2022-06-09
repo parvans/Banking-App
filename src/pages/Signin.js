@@ -58,6 +58,8 @@ export default function Signin() {
     setName("");
     setEmail("");
     setPassword("");
+    setShow(true);
+
   }
   return (
     <>
